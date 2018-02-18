@@ -1,0 +1,51 @@
+img {
+   width: 5em;
+   height: 6em;
+   float: left;
+   border-radius: 1em;
+
+}
+
+#idCard {
+border: 5px solid;
+   height: 14em;
+   margin-top: 100px;
+   margin-left: 300px;
+   margin-bottom: 100px;
+   margin-right: 300px;
+   border-radius: 1em;
+   background-color: pink;
+
+}
+
+#my {
+  border: 5px solid;
+  margin-left: 200px;
+  margin-right: 100px;
+  background: #85C1E9;
+
+}
+
+#postFullName {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  
+}
+
+
+
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+.me {
+  text-align: center;
+  border: 5px;
+
+
+}
+
+ .details {
+   text-align: center;
+ }
